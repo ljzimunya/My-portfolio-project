@@ -1,13 +1,20 @@
-
-
-h1 {
-  font-family: "Playfair Display SC", serif;
-  font-weight: 700;
-  font-style: normal;  
+.root {
+  --branding-color: #6f63ff;
+  --secondary-color: #f9f7fe;
+  --heading-font-family: "Playfair Display SC", serif;
+  --secondary-font-family: "Poppins", sans-serif;
 }
 
-p {
-    font-family: "Poppins", sans-serif;
-  font-weight: 500;
-  font-style: normal;
+.hero {
+  background: var(--secondary-color);
+  text-align: center;
+  padding: 160px 20px;
+}
+.hero p {
+}
+
+h1 h2 h3 h4 h5 h6 {
+  color: black;
+  font-family: var(--heading-font-family);
+  font-weight: bold;
 }
