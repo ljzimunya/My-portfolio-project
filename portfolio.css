@@ -6,7 +6,7 @@
 }
 
 .hero {
-  background: rgb(214, 175, 214);
+  background: #f5f1fe;
   text-align: center;
   padding: 160px 20px;
   font-weight: bold;
@@ -31,12 +31,14 @@
   font-family: mormal;
   font-size: 24px;
   line-height: 2px;
+  margin-bottom: 25px;
 }
 
 .btn-branding {
   background: var(--branding-color);
-  color: white;
   border-radius: 4px;
+  color: white;
   font-size: 18px;
-  line-height: 2px;
+  line-height: 27px;
+  padding: 15px 30px;
 }
