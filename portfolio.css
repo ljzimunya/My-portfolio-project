@@ -70,6 +70,23 @@ p {
   padding: 15px 30px;
 }
 
+.about-section {
+  padding: 160px 20px;
+}
+
+.about-section h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+
+.about-section h2 {
+  font-size: 18px;
+  font-family: var(--heading-font-family);
+}
+
+.about-section-content {
+}
+
 .btn-branding-outline {
   border: 1px solid var(--branding-color);
   border-radius: 4px;
