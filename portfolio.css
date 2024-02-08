@@ -70,17 +70,17 @@ p {
   padding: 15px 30px;
 }
 
-.content-container {
+.content {
   padding: 160px 20px;
 }
 
-.content-container {
+.content {
   h1 {
     font-size: 64px;
     line-height: 80px;
   }
 }
-.content-container {
+.content {
   n h2 {
     font-size: 18px;
     font-family: var(--heading-font-family);
@@ -128,7 +128,7 @@ p {
     padding: 80px 20px;
   }
 
-  .about-section {
+  .content {
     text-align: center;
     padding: 0;
   }
